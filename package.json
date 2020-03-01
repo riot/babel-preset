@@ -1,0 +1,24 @@
+{
+  "name": "@riotjs/babel-preset",
+  "version": "0.0.0",
+  "description": "Babel presets to compile all the Riot.js core modules",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "npm test",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riot/babel-preset.git"
+  },
+  "author": "Gianluca Guarini <gianluca.guarini@gmail.com> (http://gianlucaguarini.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riot/babel-preset/issues"
+  },
+  "homepage": "https://github.com/riot/babel-preset#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.8.6",
+    "core-js": "^3.6.4"
+  }
+}
