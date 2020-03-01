@@ -1,6 +1,6 @@
 {
   "name": "@riotjs/babel-preset",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Babel presets to compile all the Riot.js core modules",
   "main": "index.js",
   "scripts": {
